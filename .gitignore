@@ -3,6 +3,7 @@
 .agent/
 .history/
 .opencode/
+**/__pycache__/*
 
 references/literature-explainer/
 references/paper-condenser/
