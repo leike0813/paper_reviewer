@@ -1,0 +1,9 @@
+.codex/
+.claude/
+.agent/
+.history/
+.opencode/
+
+references/literature-explainer/
+references/paper-condenser/
+references/review/
